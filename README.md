@@ -12,6 +12,21 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Part One Changes
+==============
+
++ Delete some styles of origin html file
+
++ Change the background color to yellowish and font to serif
+
++ Change the font size of header tags and paragraphs
+
++ Add borders for images and make it clean
+
++ Center the header tags and images
+
++ Change the format and display order of script in 3.html
+
 License/Copyright
 =================
 
