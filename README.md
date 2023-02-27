@@ -19,7 +19,7 @@ Part One Changes
 
 + Change the background color to yellowish and font to serif
 
-+ Change the font size of header tags and paragraphs
++ Change the font size of header tags and paragraphs, add border for them
 
 + Add borders for images and make it clean
 
