@@ -1,5 +1,7 @@
 body {
-    background-color: rgb(158, 240, 175);
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     font-family: "Courier New", Courier, monospace;
   }
   
@@ -16,8 +18,8 @@ body {
   }
   
   .box1, .box2 {
+    background-color: #e7e68a;
     float: left;
-    background-color: rgb(255, 255, 255);
     border: solid;
     border-radius: 25px;
     border-width: 3px;
@@ -33,7 +35,7 @@ body {
 
 
   .box3 {
-    background-color: rgb(255, 255, 255);
+    background-color: #e7e68a;
     border: solid;
     border-width: 3px;
     border-radius: 25px;
