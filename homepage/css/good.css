@@ -56,11 +56,12 @@ body {
   
   .copyright {
       margin-bottom: 5pt;
+      color: white;
   }
   
   h1 {
     font-size: 3em;
-    color: rgb(19, 19, 20);
+    color: Blue;
   }
   h2 {
     font-size: 1.6em;
